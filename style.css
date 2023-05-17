@@ -5,8 +5,8 @@ body {
   font-weight: 300;
 }
 
-h1 {
-  color: blue;
+h1,h2 {
+  color: rgb(0, 0, 13);
   line-height: 40px;
 
 }
@@ -36,9 +36,6 @@ p {
   font-family: 'Caesar Dressing', cursive;
 }
 
-h2 {
-  color: green;
-}
 
 a {
   text-decoration: none;
